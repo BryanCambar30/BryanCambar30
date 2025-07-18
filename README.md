@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td width="150">
       <img src="assets/Avatar.png" width="120" style="border-radius: 50%;" alt="Avatar" />
@@ -8,9 +8,9 @@
       <p>
         🎮 Game Developer &nbsp;|&nbsp; 💻 Fullstack Developer &nbsp;|&nbsp; ☁️ Cloud & Automation  
         <br/>
-        🌍 Bilingual: Español / English &nbsp;|&nbsp; 🧠 Passionate about database architecture  
+        🧠 DB Architecture &nbsp;|&nbsp; 🌍 Bilingual &nbsp;|&nbsp; 🔐 Curious about Networking & Security  
         <br/>
-        🔐 Curious about Networking & Security
+        🚀 Creator of <strong>Vicio</strong> &nbsp;|&nbsp; 🎙️ Host of <strong>Coffee & Dev</strong>
       </p>
     </td>
   </tr>
@@ -28,12 +28,25 @@ Over the years, I've built experience in:
 
 - 🎮 **Game Development**: Unreal Engine, C++, asset integration
 - 🧱 **Web Development**: Node.js, FastAPI, Django, SQL, TailwindCSS, Next.js, Astro, Docker
+- - 🧠 **Database Design**: I’m passionate about relational database modeling and performance tuning (SQL Server, PostgreSQL, MySQL)
 - ☁️ **Automation & Cloud**: AWS, Azure, Terraform, Jenkins, CI/CD pipelines
 - 🔐 **Networking & Security**: Basic knowledge with growing interest in becoming an expert
-- 🧠 **Database Design**: I’m passionate about relational database modeling and performance tuning (SQL Server, PostgreSQL, MySQL)
+
 
 I love solving real-world problems with scalable architecture and clean, maintainable code.  
 Whether it’s building backend APIs, integrating with external services, or designing game logic, I bring both creativity and structure.
+
+---
+
+### 🚀 Creator of [**Vicio**](#) (in development)
+
+An ambitious project built with multiple technologies, designed to deliver an immersive experience through both mobile and web applications. I lead the architecture and development of the platform.
+
+---
+
+### 🎙️ Host & Creator of [**Coffee & Dev**](http://www.youtube.com/@CoffeeDev-j7i)
+
+A podcast where we talk about the real, day-to-day life of software developers — from burnout and motivation, to career paths and technology trends.
 
 📬 **Let’s connect** — If you’re building something impactful and need someone who delivers, I’m ready.
 
@@ -54,9 +67,23 @@ A lo largo de los años, he trabajado en:
 Me encanta resolver problemas reales con arquitectura escalable y código limpio.  
 Ya sea construyendo APIs, conectando servicios externos o programando la lógica de un videojuego, aporto creatividad y estructura.
 
+---
+
+### 🚀 Creador de [**Vicio**](#) (en desarrollo)
+
+Un proyecto ambicioso desarrollado con múltiples tecnologías, pensado para ofrecer una experiencia inmersiva tanto en plataformas móviles como web. Lidero la arquitectura y el desarrollo del sistema.
+
+---
+
+### 🎙️ Creador y parte de [**Coffee & Dev**](#)
+
+Un podcast donde hablamos sobre el día a día real de los desarrolladores de software — desde el burnout y la motivación, hasta trayectorias profesionales y tendencias tecnológicas.
+
 📬 **Contáctame** — Si estás desarrollando algo importante y necesitas a alguien que cumpla, estoy listo.
 
 </details>
+
+
 
 ---
 
