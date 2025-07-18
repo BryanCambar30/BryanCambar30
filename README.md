@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://ruta-a-tu-avatar.com/avatar.jpg" alt="Bryan's avatar" width="150" style="border-radius: 50%;" />
 
-<!--
-**BryanCambar30/BryanCambar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🌐 Bienvenido / Welcome 🌐</h1>
 
-Here are some ideas to get you started:
+  <p>
+    <strong>👨‍💻 Bryan</strong> aquí.<br>
+    🔧 Me apasiona el desarrollo web, los flujos de automatización y mejorar cada experiencia de usuario.<br>
+    🧠 I love exploring structured workflows, building fast sites, and pushing creativity through tech.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Tecnologías y herramientas favoritas:
+- 🎨 Responsive Design & Astro
+- 🤖 N8N, automation flows
+- 🎧 Unreal Engine & audio configs
+- 🔌 Networking (VLANs, FHRP, EtherChannels)
+
+---
+
+📬 Si te interesa colaborar, puedes contactarme en [tu-email@example.com](mailto:tu-email@example.com)
+
