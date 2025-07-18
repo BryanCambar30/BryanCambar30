@@ -1,13 +1,20 @@
-<p align="center">
-  <img src="TU_AVATAR_AQUI" width="150" style="border-radius: 50%;" alt="Avatar">
-</p>
-
-<h1 align="center">👋 Hello there! ¡Hola! I'm Bryan Cambar</h1>
-
-<p align="center">
-  🎮 Game Developer | 💻 Fullstack Developer | ☁️ Automation & Cloud Enthusiast  
-  🌐 Bilingual (English / Español) | 🧠 Always learning | 📊 Passionate about DB architecture  
-</p>
+<table>
+  <tr>
+    <td width="150">
+      <img src="TU_AVATAR_URL" width="120" style="border-radius: 50%;" alt="Avatar" />
+    </td>
+    <td>
+      <h2>👋 ¡Hola! / Hello! I'm Bryan Cambar</h2>
+      <p>
+        🎮 Game Developer &nbsp;|&nbsp; 💻 Fullstack Developer &nbsp;|&nbsp; ☁️ Cloud & Automation  
+        <br/>
+        🌍 Bilingual: Español / English &nbsp;|&nbsp; 🧠 Passionate about database architecture  
+        <br/>
+        🔐 Curious about Networking & Security
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,8 +63,8 @@ Ya sea construyendo APIs, conectando servicios externos o programando la lógica
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanCambar30" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCambar30&layout=compact&theme=tokyonight" />
 </p>
 
 ---
