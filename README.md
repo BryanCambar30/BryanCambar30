@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="150">
-      <img src="TU_AVATAR_URL" width="120" style="border-radius: 50%;" alt="Avatar" />
+      <img src="assets/Avatar.png" width="120" style="border-radius: 50%;" alt="Avatar" />
     </td>
     <td>
       <h2>👋 ¡Hola! / Hello! I'm Bryan Cambar</h2>
