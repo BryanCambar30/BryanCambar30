@@ -18,7 +18,7 @@
 
 ---
 
-## 🌍 Multilingual Welcome · Bienvenido Multilingüe
+## 🌍 Welcome · Bienvenido
 
 <details>
   <summary>🇺🇸 English</summary>
